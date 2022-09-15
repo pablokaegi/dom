@@ -1,0 +1,16 @@
+#encabezado{
+    color:aqua;
+    font-size: 32px;
+    background-color: rgb(213, 241, 241);
+    font-family: Impact;
+    font-style: oblique;
+    border-radius: 1px;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+#bienvenidos{
+    font-style: italic;
+    font-family: Georgia;
+    font-size: 16 px;
+}
